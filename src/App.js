@@ -46,7 +46,7 @@ function App() {
     <>
       <div className="container mt-5">
         <h3 className="d-flex justify-content-center" >
-          Expense Tracker-Basic
+          Expense Tracker-Basic Task
         </h3>
         <div className="border border-dark mb-2  ">
           <center>
